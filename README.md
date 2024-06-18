@@ -59,9 +59,12 @@ iptables # Administer IPv4 packet filtering and NAT
 ```
 
 ###Contributing
+
 Contributions to improve this handbook are welcome! If you have suggestions, corrections, or additions, please fork this repository, make your changes, and submit a pull request.
 
+
 ###License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 <div align="center">
