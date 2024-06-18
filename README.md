@@ -1,4 +1,4 @@
-# Sysadmin Handbook
+# Handbook du Sysadmin
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/SAMBOU-57/Sysadminhandbook)
 ![GitHub contributors](https://img.shields.io/github/contributors/SAMBOU-57/Sysadminhandbook)
@@ -6,9 +6,8 @@
 ![GitHub forks](https://img.shields.io/github/forks/SAMBOU-57/Sysadminhandbook?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/SAMBOU-57/Sysadminhandbook)
 
-Glossary, notes about sysadmin stuff
-Welcome to the Sysadmin Handbook repository! This project is part of my professional reconversion to become a system administrator, and it serves as a comprehensive study guide and reference for aspiring sysadmins.
-
+Glossaire, notes et trucs de sysadmin stuff
+c
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -19,51 +18,51 @@ Welcome to the Sysadmin Handbook repository! This project is part of my professi
 
 ## Introduction
 
-This repository is a structured collection of essential knowledge and practical commands that every system administrator should know. It includes a detailed glossary of terms and a cheatsheet for Linux commands on Ubuntu.
+Bienvenue dans le dépôt du Manuel de l'administrateur système ! Ce projet fait partie de ma reconversion professionnelle pour devenir administrateur système, et il sert de guide d'étude complet et de référence pour les futurs administrateurs système.
 
-## Glossary
+## Glossaire
 
-The glossary includes definitions and usage of key terms in system administration:
+Le glossaire comprend les définitions et l'utilisation des termes clés de l'administration des systèmes :
 
-- **Virtualization**: The process of creating a virtual version of computer hardware platforms, storage devices, and network resources.
-- **Firewall**: A network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.
-- **RAID**: Redundant Array of Independent Disks, a technology to combine multiple physical disk drives into logical units for redundancy and performance.
+- **Virtualisation**: Le processus de création d'une version virtuelle des plates-formes matérielles, des dispositifs de stockage et des ressources réseau d'un ordinateur.
+- **Pare-feu**: A network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.
+- **RAID**: Redundant Array of Independent Disks, Technologie permettant de combiner plusieurs lecteurs de disques physiques en unités logiques à des fins de redondance et de performance.
 
 ## Linux Command Cheatsheet (Ubuntu)
 
-A quick reference for essential Linux commands used in Ubuntu:
+Commandes Linux essentielles utilisées dans Ubuntu :
 
-## File and Directory Operations
+## Opérations sur les fichiers et les répertoires
+
 ```bash
-ls       # List directory contents
-cd       # Change directory
-mkdir    # Create new directory
-rm       # Remove files or directories
-cp       # Copy files or directories
-mv       # Move or rename files or directories
+ls       # Lister le contenu d'un répertoire
+cd       # Changer de répertoire
+mkdir    # Créer un répertoire
+rm       # Effacer un fichier ou un dossier
+cp       # Copier un fichier ou un dossier
+mv       # Déplacer, renommer un fichier ou un dossier
 ```
 
 ## System Management
 ```bash
-sudo     # Execute command as superuser
-apt-get  # Handle packages
-systemctl # Control systemd system and service manager
+sudo     # Exécuter une commande en tant que superutilisateur
+apt-get  # Gérer les packages
+systemctl # Controle le systemd et le service manager
 ```
 
 ## Networking
 ```bash
-ifconfig # Configure network interfaces
-ping     # Send ICMP ECHO_REQUEST to network hosts
-netstat  # Print network connections, routing tables, etc.
-iptables # Administer IPv4 packet filtering and NAT
+ifconfig # Configurer l'interface réseau 
+ping     # Envoie une ICMP ECHO_REQUEST à réseau sollicité, calculé en ms
+netstat  # Imprimer les connexions réseau, les tables de routage, etc.
+iptables # Administrer le filtrage de paquets IPv4 et le NAT
 ```
 
-## Contributing
-Contributions to improve this handbook are welcome! If you have suggestions, corrections, or additions, please fork this repository, make your changes, and submit a pull request.
-
+## Contribuer
+Les contributions visant à améliorer ce manuel sont les bienvenues ! Si vous avez des suggestions, des corrections ou des ajouts, veuillez créer un lien vers ce dépôt, apporter vos modifications et soumettre une demande de téléchargement.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+Ce projet est placé sous licence MIT - voir le fichier LICENSE pour plus de détails.
 
 <div align="center">
     <img src="https://img.shields.io/badge/-Linux-000?logo=linux&logoColor=white">
