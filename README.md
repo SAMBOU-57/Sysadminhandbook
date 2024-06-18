@@ -6,19 +6,20 @@
 ![GitHub forks](https://img.shields.io/github/forks/SAMBOU-57/Sysadminhandbook?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/SAMBOU-57/Sysadminhandbook)
 
-Glossaire, notes et trucs de sysadmin stuff
-c
+Glossaire, notes et trucs de sysadmin 
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
 2. [Glossary](#glossary)
 3. [Linux Command Cheatsheet (Ubuntu)](#linux-command-cheatsheet-ubuntu)
-4. [Contributing](#contributing)
-5. [License](#license)
+4. [Contributing](#contribuer)
+5. [Licence](#licence)
 
 ## Introduction
 
-Bienvenue dans le dépôt du Manuel de l'administrateur système ! Ce projet fait partie de ma reconversion professionnelle pour devenir administrateur système, et il sert de guide d'étude complet et de référence pour les futurs administrateurs système.
+Bienvenue dans le dépôt du Manuel de l'administrateur système ! 
+Ce projet fait partie de ma reconversion professionnelle pour devenir administrateur système, et il sert de guide d'étude complet et de référence pour les futurs administrateurs système.
 
 ## Glossaire
 
@@ -28,7 +29,7 @@ Le glossaire comprend les définitions et l'utilisation des termes clés de l'ad
 - **Pare-feu**: A network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.
 - **RAID**: Redundant Array of Independent Disks, Technologie permettant de combiner plusieurs lecteurs de disques physiques en unités logiques à des fins de redondance et de performance.
 
-## Linux Command Cheatsheet (Ubuntu)
+## Cheatsheet Commandes Linux (Ubuntu)
 
 Commandes Linux essentielles utilisées dans Ubuntu :
 
@@ -59,10 +60,10 @@ iptables # Administrer le filtrage de paquets IPv4 et le NAT
 ```
 
 ## Contribuer
-Les contributions visant à améliorer ce manuel sont les bienvenues ! Si vous avez des suggestions, des corrections ou des ajouts, veuillez créer un lien vers ce dépôt, apporter vos modifications et soumettre une demande de téléchargement.
+Les contributions visant à améliorer ce manuel sont les bienvenues ! Si vous avez des suggestions, des corrections ou des ajouts, veuillez fork ce repo, apporter vos modifications et soumettre une pull request.
 
-## License
-Ce projet est placé sous licence MIT - voir le fichier LICENSE pour plus de détails.
+## Licence
+J'ai choisi de placerce projet sous sous la licence MIT - voir le fichier LICENSE pour plus de détails.
 
 <div align="center">
     <img src="https://img.shields.io/badge/-Linux-000?logo=linux&logoColor=white">
