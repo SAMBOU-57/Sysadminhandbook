@@ -1,10 +1,10 @@
 # Sysadmin Handbook
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/Sysadmin-Handbook)
-![GitHub contributors](https://img.shields.io/github/contributors/yourusername/Sysadmin-Handbook)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/Sysadmin-Handbook?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/Sysadmin-Handbook?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/Sysadmin-Handbook)
+![GitHub repo size](https://img.shields.io/github/repo-size/SAMBOU-57/Sysadmin-Handbook)
+![GitHub contributors](https://img.shields.io/github/contributors/SAMBOU-57/Sysadmin-Handbook)
+![GitHub stars](https://img.shields.io/github/stars/SAMBOU-57/Sysadmin-Handbook?style=social)
+![GitHub forks](https://img.shields.io/github/forks/SAMBOU-57/Sysadmin-Handbook?style=social)
+![GitHub issues](https://img.shields.io/github/issues/SAMBOU-57/Sysadmin-Handbook)
 
 Glossary, notes about sysadmin stuff
 Welcome to the Sysadmin Handbook repository! This project is part of my professional reconversion to become a system administrator, and it serves as a comprehensive study guide and reference for aspiring sysadmins.
