@@ -43,14 +43,14 @@ cp       # Copy files or directories
 mv       # Move or rename files or directories
 ```
 
-##System Management
+## System Management
 ```bash
 sudo     # Execute command as superuser
 apt-get  # Handle packages
 systemctl # Control systemd system and service manager
 ```
 
-##Networking
+## Networking
 ```bash
 ifconfig # Configure network interfaces
 ping     # Send ICMP ECHO_REQUEST to network hosts
@@ -58,11 +58,11 @@ netstat  # Print network connections, routing tables, etc.
 iptables # Administer IPv4 packet filtering and NAT
 ```
 
-##Contributing
+## Contributing
 Contributions to improve this handbook are welcome! If you have suggestions, corrections, or additions, please fork this repository, make your changes, and submit a pull request.
 
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 <div align="center">
