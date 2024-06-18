@@ -64,10 +64,8 @@ Contributions to improve this handbook are welcome! If you have suggestions, cor
 ###License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-```bash
 <div align="center">
     <img src="https://img.shields.io/badge/-Linux-000?logo=linux&logoColor=white">
     <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white">
     <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white">
 </div>
-```
