@@ -26,7 +26,7 @@ Ce projet fait partie de ma reconversion professionnelle pour devenir administra
 Le glossaire comprend les définitions et l'utilisation des termes clés de l'administration des systèmes :
 
 - **Virtualisation**: Le processus de création d'une version virtuelle des plates-formes matérielles, des dispositifs de stockage et des ressources réseau d'un ordinateur.
-- **Pare-feu**: A network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.
+- **Pare-feu**:  Un système de sécurité réseau qui surveille et contrôle le trafic réseau entrant et sortant sur la base de règles de sécurité prédéterminées
 - **RAID**: Redundant Array of Independent Disks, Technologie permettant de combiner plusieurs lecteurs de disques physiques en unités logiques à des fins de redondance et de performance.
 
 ## Cheatsheet Commandes Linux (Ubuntu)
